@@ -4,16 +4,20 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[50's Diner Themed Website](/sample_page)
 <img src="images/50sDinerThumbnail2.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Tiny Planet Defender](/pdf/sample_presentation.pdf)
 <img src="images/gameThumbnail.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Subject Manager Android Application](http://example.com/)
 <img src="images/AndroidProjectThumbnail.png?raw=true"/>
+
+---
+[Inventory Manager Java Application](http://example.com/)
+<img src="images/InventoryScreenshot.png?raw=true"/>
 
 ---
 
