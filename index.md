@@ -20,6 +20,10 @@
 <img src="images/InventoryScreenshot.png?raw=true"/>
 
 ---
+[Appointment Manager Java Application](http://example.com/)
+<img src="images/AppointmentScreenshot.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
