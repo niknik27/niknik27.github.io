@@ -21,7 +21,7 @@
 
 ---
 [Appointment Manager Java Application](http://example.com/)
-<img src="images/AppointmentScreenshot.png?raw=true"/>
+<img src="images/AppointmentThumbnail.png?raw=true"/>
 
 ---
 
