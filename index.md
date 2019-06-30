@@ -12,11 +12,11 @@
 <img src="images/gameThumbnail.png?raw=true"/>
 
 ---
-[Student Subject Manager Android Application](http://example.com/)
+[Subject Manager Android Application](http://example.com/)
 <img src="images/AndroidProjectThumbnail.png?raw=true"/>
 
 ---
-[Inventory Manager](http://example.com/)
+[Inventory Manager Java Application](http://example.com/)
 <img src="images/InventoryScreenshot.png?raw=true"/>
 
 ---
