@@ -8,7 +8,7 @@
 <img src="images/50sDinerThumbnail2.png?raw=true"/>
 
 ---
-[Tiny Planet Defender](/pdf/sample_presentation.pdf)
+[Tiny Planet Defender](/GamePage)
 <img src="images/gameThumbnail.png?raw=true"/>
 
 ---
