@@ -8,11 +8,11 @@ This was created as a school project to show proficiency in java and fxml progra
 
 ## Screenshots
 
-<img src="/images/InventoryManagerScreenshots/Screenshot1.png?raw=true" width="80%" alt = "screenshot 1">
+<img src="/images/InventoryManagerScreenshots/Screenshot1.png?raw=true" width="90%" alt = "screenshot 1">
 
-<img src="/images/InventoryManagerScreenshots/Screenshot2.png?raw=true" width="40%" alt = "screenshot 2">
+<img src="/images/InventoryManagerScreenshots/Screenshot2.png?raw=true" width="50%" alt = "screenshot 2">
 
-<img src="/images/InventoryManagerScreenshots/Screenshot3.png?raw=true" width="80%" alt = "screenshot 4">
+<img src="/images/InventoryManagerScreenshots/Screenshot3.png?raw=true" width="90%" alt = "screenshot 4">
 
 ## Tech/framework used
 <b>Built with</b>
