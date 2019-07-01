@@ -12,7 +12,7 @@
 <img src="images/gameThumbnail.png?raw=true"/>
 
 ---
-[Subject Manager Android Application](http://example.com/)
+[School Manager Android Application](/SchoolManagerPage)
 <img src="images/AndroidProjectThumbnail.png?raw=true"/>
 
 ---
