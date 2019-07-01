@@ -6,13 +6,13 @@ This project was created because the local 50's diner I was employed at needed a
 
 ## Screenshots
 
-<img src="/images/50sScreenshots/screenshot1.png?raw=true" width="60%" alt = "screenshot 1">
+<img src="/images/50sScreenshots/screenshot1.png?raw=true" width="50%" alt = "screenshot 1">
 
-<img src="/images/50sScreenshots/screenshot2.png?raw=true" width="60%" alt = "screenshot 2">
+<img src="/images/50sScreenshots/screenshot2.png?raw=true" width="50%" alt = "screenshot 2">
 
-<img src="/images/50sScreenshots/screenshot4.png?raw=true" width="60%" alt = "screenshot 4">
+<img src="/images/50sScreenshots/screenshot4.png?raw=true" width="50%" alt = "screenshot 4">
 
-<img src="/images/50sScreenshots/screenshot3.png?raw=true" width="60%" alt = "screenshot 3">
+<img src="/images/50sScreenshots/screenshot3.png?raw=true" width="50%" alt = "screenshot 3">
 
 ## Tech/framework used
 <b>Built with</b>
