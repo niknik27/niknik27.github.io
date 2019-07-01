@@ -8,15 +8,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/nicole-kristen-uy">View My LinkedIn Profile</a> 
   <br><br>
   <b>Projects:</b>
-  <br>
+  <br><br>
   <a href="/50sPage">50's Diner Themed Website</a>
-  <br>
+  <br><br>
   <a href="/GamePage">Tiny Planet Defender</a>
-  <br>
+  <br><br>
   <a href="/SchoolManagerPage">School Manager Android Application</a>
-  <br>
+  <br><br>
   <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
-  <br>
+  <br><br>
   <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
 
 theme: jekyll-theme-minimal
