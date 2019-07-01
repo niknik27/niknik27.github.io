@@ -6,9 +6,9 @@ This is a project created in unity using C#
   so this is the first ever project I made to learn C# 
 
 ## Screenshots
-![Image](images/GameScreenshots/gameScreenshot1.png?raw=true "Screenshot 1")
+<img src="/images/GameScreenshots/screenshot1.png?raw=true" width="50%" alt = "screenshot 1">
 
-![Image](images/GameScreenshots/gameScreenshot2.png?raw=true "Screenshot 2")
+<img src="/images/GameScreenshots/gameScreenshot2.png?raw=true" width="50%" alt = "screenshot 2">
 
 ## Tech/framework used
 <b>Built with</b>
