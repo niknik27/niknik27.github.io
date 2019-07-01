@@ -22,7 +22,6 @@
 - [Inventory Manager Java Application](/InventoryManagerPage)
 - [Appointment Manager Java Application](/AppointmentManagerPage)
 
----
 
 
 
