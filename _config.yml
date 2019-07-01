@@ -6,18 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/nicole-kristen-uy">View My LinkedIn Profile</a> 
-  <br><br>
-  <b>Projects:</b>
-  <br><br>
-  1. <a href="/50sPage">50's Diner Themed Website</a>
-  <br><br>
-  2. <a href="/GamePage">Tiny Planet Defender</a>
-  <br><br>
-  3. <a href="/SchoolManagerPage">School Manager Android Application</a>
-  <br><br>
-  4. <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
-  <br><br>
-  5. <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
