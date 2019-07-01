@@ -16,7 +16,7 @@
 <img src="images/AndroidProjectThumbnail.png?raw=true"/>
 
 ---
-[Inventory Manager Java Application](http://example.com/)
+[Inventory Manager Java Application](/InventoryManagerPage)
 <img src="images/InventoryScreenshot.png?raw=true"/>
 
 ---
