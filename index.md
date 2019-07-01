@@ -20,7 +20,7 @@
 <img src="images/InventoryScreenshot.png?raw=true"/>
 
 ---
-[Appointment Manager Java Application](http://example.com/)
+[Appointment Manager Java Application](/AppointmentManagerPage)
 <img src="images/AppointmentThumbnail.png?raw=true"/>
 
 ---
