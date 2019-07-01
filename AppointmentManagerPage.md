@@ -6,13 +6,13 @@ This was created as a school project to show proficiency in java and fxml progra
 
 ## Screenshots
 
-<img src="apnmtScreenshot1.png?raw=true" width="80%" alt = "screenshot 1">
+<img src="/images/ApmntManagerScreenshots/apnmtScreenshot1.png?raw=true" width="80%" alt = "screenshot 1">
 
-<img src="apnmtScreenshot2.png?raw=true" width="40%" alt = "screenshot 2">
+<img src="/images/ApmntManagerScreenshots/apnmtScreenshot2.png?raw=true" width="40%" alt = "screenshot 2">
 
-<img src="apnmtScreenshot3.png?raw=true" width="80%" alt = "screenshot 3">
+<img src="/images/ApmntManagerScreenshots/apnmtScreenshot3.png?raw=true" width="80%" alt = "screenshot 3">
 
-<img src="apnmtScreenshot4.png?raw=true" width="80%" alt = "screenshot 4">
+<img src="/images/ApmntManagerScreenshots/apnmtScreenshot4.png?raw=true" width="80%" alt = "screenshot 4">
 
 ## Tech/framework used
 <b>Built with</b>
