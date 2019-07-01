@@ -18,3 +18,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   4. <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
   <br>
   5. <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
+
+theme: jekyll-theme-minimal
