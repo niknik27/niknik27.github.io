@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[50's Diner Themed Website](/sample_page)
+[50's Diner Themed Website](/50sPage)
 <img src="images/50sDinerThumbnail2.png?raw=true"/>
 
 ---
