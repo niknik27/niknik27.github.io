@@ -4,9 +4,6 @@ This is a generic version of the website I created and continue to manage for a 
 ## Motivation
 This project was created because the local 50's diner I was employed at needed an independent website that would separate itself from their franchise website
 
-## Build status
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
-
 ## Screenshots
 
 <img src="/images/50sScreenshots/screenshot1.png?raw=true" width="60%" alt = "screenshot 1">
