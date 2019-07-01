@@ -6,7 +6,7 @@ This is a project created in unity using C#
   so this is the first ever project I made to learn C# 
 
 ## Screenshots
-<img src="/images/GameScreenshots/screenshot1.png?raw=true" width="50%" alt = "screenshot 1">
+<img src="/images/GameScreenshots/gameScreenshot1.png?raw=true" width="50%" alt = "screenshot 1">
 
 <img src="/images/GameScreenshots/gameScreenshot2.png?raw=true" width="50%" alt = "screenshot 2">
 
@@ -22,7 +22,5 @@ This is a project created in unity using C#
   > Saves player progress
   
   > More than 5 different enemy types and counting
-
-
 
 Copyright 2019 © [niknik27](https://github.com/niknik27)
