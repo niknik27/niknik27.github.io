@@ -9,15 +9,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>Projects:</b>
   <br><br>
-  <a href="/50sPage">50's Diner Themed Website</a>
+  1. <a href="/50sPage">50's Diner Themed Website</a>
   <br><br>
-  <a href="/GamePage">Tiny Planet Defender</a>
+  2. <a href="/GamePage">Tiny Planet Defender</a>
   <br><br>
-  <a href="/SchoolManagerPage">School Manager Android Application</a>
+  3. <a href="/SchoolManagerPage">School Manager Android Application</a>
   <br><br>
-  <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
+  4. <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
   <br><br>
-  <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
+  5. <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
