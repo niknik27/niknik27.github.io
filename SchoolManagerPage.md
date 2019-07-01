@@ -20,7 +20,4 @@ It also provides a note taking feature.
   
   > Ability to add, edit, and delete Terms, Courses, and Assessments
 
-## License
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-
 Copyright 2019 © [niknik27](https://github.com/niknik27)
