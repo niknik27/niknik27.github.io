@@ -9,13 +9,13 @@ This project was created because the local 50's diner I was employed at needed a
 
 ## Screenshots
 
-<img src="/images/50sScreenshots/screenshot1.png?raw=true" width="50%" alt = "screenshot 1">
+<img src="/images/50sScreenshots/screenshot1.png?raw=true" width="60%" alt = "screenshot 1">
 
-<img src="/images/50sScreenshots/screenshot2.png?raw=true" width="50%" alt = "screenshot 2">
+<img src="/images/50sScreenshots/screenshot2.png?raw=true" width="60%" alt = "screenshot 2">
 
-<img src="/images/50sScreenshots/screenshot4.png?raw=true" width="50%" alt = "screenshot 4">
+<img src="/images/50sScreenshots/screenshot4.png?raw=true" width="60%" alt = "screenshot 4">
 
-<img src="/images/50sScreenshots/screenshot3.png?raw=true" width="50%" alt = "screenshot 3">
+<img src="/images/50sScreenshots/screenshot3.png?raw=true" width="60%" alt = "screenshot 3">
 
 ## Tech/framework used
 <b>Built with</b>
@@ -32,28 +32,6 @@ This project was created because the local 50's diner I was employed at needed a
   
   > Auto Scrolling Slideshow
 
-## Installation
-> Step 1: Download [Atom](https://atom.io/) 
-
-> Step 2: Download all files from repository
-
-> Step 3: Click "Open Project" from Atom after installation
-
-> Step 4: Select folder where all files from this repository are located on your computer
-
-> Step 5: Code!
-
-<b>Suggestion:</b> To quickly view how the project looks using atom, download the "Preview HTML" package 
-  > Step 1: In Atom, go to Fie>Settings
-  
-  > Step 2: Select "+Install" from the menu on the side and "Install Packages" window will show up
-  
-  > Step 3: Search "Preview HTML"
-  
-  > Step 4: Install the package named "atom-html-preview"
-  
-  > Step 5: After installation, open preview window by selecting from toolbar Packages>Preview HTML>Enable Preview while the "index.html" window is open
-  
 ## Credits
   > [Schoop's Tinley Park](http://schoopstinleypark.com/) - the original version of the website I made
   
@@ -64,9 +42,5 @@ This project was created because the local 50's diner I was employed at needed a
   > [Photo by Colin Avery on Unsplash](https://unsplash.com/photos/5e-ljvIaiBM)
   
   > [Photo by R. Mac Wheeler on Unsplash](https://unsplash.com/photos/CJZi367anGU) 
-  
-
-## License
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 Copyright 2019 © [niknik27](https://github.com/niknik27)
