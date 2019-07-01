@@ -3,11 +3,11 @@ This is a small mobile application that can keep track of a student's courses, t
 It also provides a note taking feature.
 
 ## Screenshots
-![Image](/images/SchoolManagerScreenshots/AndroidScreenshot1.png?raw=true width="40%" alt ="Screenshot 1")
+<img src="/images/SchoolManagerScreenshots/AndroidScreenshot1.png?raw=true" width="40%" alt = "screenshot 1">
 
-![Image](/images/SchoolManagerScreenshots/AndroidScreenshot2.png?raw=true width="40%" alt ="Screenshot 2")
+<img src="/images/SchoolManagerScreenshots/AndroidScreenshot2.png?raw=true" width="40%" alt = "screenshot 2">
 
-![Image](/images/SchoolManagerScreenshots/AndroidScreenshot3.png?raw=true width="40%" alt ="Screenshot 3")
+<img src="/images/SchoolManagerScreenshots/AndroidScreenshot3.png?raw=true" width="40%" alt = "screenshot 3">
 
 ## Tech/framework used
 <b>Built with</b>
