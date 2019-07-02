@@ -6,6 +6,13 @@
 ## Motivation
 This was created as a school project to show proficiency in java and fxml programming using Netbeans.
 
+## Tech/framework used
+<b>Built with</b> [Netbeans IDE](https://netbeans.org/downloads/8.2/)
+
+<b>Using: </b>
+  - Java
+  - FXML
+
 ## Screenshots
 
 <img src="/images/InventoryManagerScreenshots/Screenshot1.png?raw=true" width="90%" alt = "screenshot 1">
@@ -13,10 +20,6 @@ This was created as a school project to show proficiency in java and fxml progra
 <img src="/images/InventoryManagerScreenshots/Screenshot2.png?raw=true" width="50%" alt = "screenshot 2">
 
 <img src="/images/InventoryManagerScreenshots/Screenshot3.png?raw=true" width="90%" alt = "screenshot 4">
-
-## Tech/framework used
-<b>Built with</b>
-- [Netbeans IDE](https://netbeans.org/downloads/8.2/)
 
 ## Features
   > Simple User Interface
