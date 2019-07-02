@@ -25,5 +25,9 @@ It also provides a note taking feature.
   > Persistent saving using a SQLite database
   
   > Ability to add, edit, and delete Terms, Courses, and Assessments
+  
+  > Notifications and Alerts
+  
+  > Ability to enable and disable notifications and alerts
 
 Copyright 2019 © [niknik27](https://github.com/niknik27)
