@@ -10,7 +10,7 @@ It also provides a note taking feature.
 
 <b>Using: </b>
   - Java
-  - FXML
+  - XML
 
 ## Screenshots
 <img src="/images/SchoolManagerScreenshots/AndroidScreenshot1.png?raw=true" width="40%" alt = "screenshot 1">
