@@ -7,14 +7,16 @@ It was suggested to me that the best way to learn a programming language is to c
 ## Preview
 <img src="/gifs/TinyPlanetGame.gif" width="100%">
 
+## Tech/framework used
+<b>Built with</b> [Unity](https://unity.com/)
+
+<b>Using:</b>
+  - C#
+
 ## Screenshots
 <img src="/images/GameScreenshots/gameScreenshot1.png?raw=true" width="80%" alt = "screenshot 1">
 
 <img src="/images/GameScreenshots/gameScreenshot2.png?raw=true" width="80%" alt = "screenshot 2">
-
-## Tech/framework used
-<b>Built with</b>
-- [Unity](https://unity.com/)
 
 ## Features
   > Mobile Game
