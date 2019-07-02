@@ -5,7 +5,7 @@ This is a project created in unity using C#
 It was suggested to me that the best way to learn a programming language is to create a project using it, so this is the first ever project I made to learn C# 
 
 ## Preview
-<img src="/gifs/TinyPanetGame.gif" width="100%">
+<img src="/gifs/TinyPlanetGame.gif" width="100%">
 
 ## Screenshots
 <img src="/images/GameScreenshots/gameScreenshot1.png?raw=true" width="80%" alt = "screenshot 1">
