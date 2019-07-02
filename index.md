@@ -2,38 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Main Projects
 
 [50's Diner Themed Website](/50sPage)
 <img src="images/50sDinerThumbnail2.png?raw=true"/>
 
 ---
-[Tiny Planet Defender](/pdf/sample_presentation.pdf)
+[Tiny Planet Defender](/GamePage)
 <img src="images/gameThumbnail.png?raw=true"/>
 
 ---
-[Subject Manager Android Application](http://example.com/)
+[School Manager Android Application](/SchoolManagerPage)
 <img src="images/AndroidProjectThumbnail.png?raw=true"/>
 
 ---
-[Inventory Manager Java Application](http://example.com/)
-<img src="images/InventoryScreenshot.png?raw=true"/>
 
----
-[Appointment Manager Java Application](http://example.com/)
-<img src="images/AppointmentThumbnail.png?raw=true"/>
+### Netbeans Java Projects
 
----
+- [Inventory Manager Java Application](/InventoryManagerPage)
+- [Appointment Manager Java Application](/AppointmentManagerPage)
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
