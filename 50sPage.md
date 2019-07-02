@@ -7,6 +7,19 @@
 ## Motivation
 This project was created because the local 50's diner I was employed at needed an independent website that would separate itself from their franchise website
 
+## Preview
+<img src="50sWebsite.gif" width="90%">
+
+## Tech/framework used
+<b>Built with</b> [Atom](https://atom.io/)
+
+<b>Using:</b>
+  - HTML
+  - CSS
+  - PHP
+  - JavaScript
+  - JQuery
+
 ## Screenshots
 
 <img src="/images/50sScreenshots/screenshot1.png?raw=true" width="50%" alt = "screenshot 1">
@@ -16,10 +29,6 @@ This project was created because the local 50's diner I was employed at needed a
 <img src="/images/50sScreenshots/screenshot4.png?raw=true" width="50%" alt = "screenshot 4">
 
 <img src="/images/50sScreenshots/screenshot3.png?raw=true" width="50%" alt = "screenshot 3">
-
-## Tech/framework used
-<b>Built with</b>
-- [Atom](https://atom.io/)
 
 ## Features
   > Single Page Scrolling Website
