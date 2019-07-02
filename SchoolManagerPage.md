@@ -2,16 +2,22 @@
 This is a small mobile application that can keep track of a student's courses, tests, and terms. 
 It also provides a note taking feature.
 
+## Preview
+<img src="/gifs/SchoolManager.gif" width="100%">
+
+## Tech/framework used
+<b>Built with</b> [Android Studio](https://developer.android.com/studio)
+
+<b>Using: </b>
+  - Java
+  - FXML
+
 ## Screenshots
 <img src="/images/SchoolManagerScreenshots/AndroidScreenshot1.png?raw=true" width="40%" alt = "screenshot 1">
 
 <img src="/images/SchoolManagerScreenshots/AndroidScreenshot2.png?raw=true" width="40%" alt = "screenshot 2">
 
 <img src="/images/SchoolManagerScreenshots/AndroidScreenshot3.png?raw=true" width="40%" alt = "screenshot 3">
-
-## Tech/framework used
-<b>Built with</b>
-- [Android Studio](https://developer.android.com/studio)
 
 ## Features
   > Note taking features
