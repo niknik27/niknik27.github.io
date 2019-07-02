@@ -8,7 +8,7 @@
 This project was created because the local 50's diner I was employed at needed an independent website that would separate itself from their franchise website
 
 ## Preview
-<img src="50sWebsite.gif" width="90%">
+<img src="/gifs/50sWebsite.gif" width="90%">
 
 ## Tech/framework used
 <b>Built with</b> [Atom](https://atom.io/)
