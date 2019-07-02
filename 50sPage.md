@@ -1,5 +1,8 @@
 # 50-s-Website-Project
-This is a generic version of the website I created and continue to manage for a 50's diner
+  - This is a generic version of the website I created and continue to manage for a 50's diner
+
+  - To see the full website please click [here](https://niknik27.github.io/50-s-Website-Project/)!
+
 
 ## Motivation
 This project was created because the local 50's diner I was employed at needed an independent website that would separate itself from their franchise website
