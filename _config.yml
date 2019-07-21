@@ -3,6 +3,18 @@ logo: "/images/roundProfilePic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Friendly and Intuitive Software Developer who learns quickly and specializes in application, web, and game development.
   <br><br>
+  I have experience in the following programming languages:
+        
+       •   C#
+       •   Java
+       •   C++
+       •   JavaScript
+       •   SQL
+       •   HTML
+       •   CSS3
+       •   PHP
+       •   JQuery 
+ <br><br>
   <a href="https://www.linkedin.com/in/nicole-kristen-uy">View My LinkedIn Profile</a> 
   <br><br>
   <b>Projects:</b>
@@ -16,17 +28,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   4. <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
   <br>
   5. <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
-  <br><br>
-  I have experience in the following programming languages:
-        
-       •   C#
-       •   Java
-       •   C++
-       •   JavaScript
-       •   SQL
-       •   HTML
-       •   CSS3
-       •   PHP
-       •   JQuery 
-  
 theme: jekyll-theme-minimal
