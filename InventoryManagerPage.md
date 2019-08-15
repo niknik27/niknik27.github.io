@@ -34,4 +34,11 @@ This was created as a school project to show proficiency in java and fxml progra
   
   > User feedback prompts
 
+## Projects
+  1. <a href="/50sPage">50's Diner Themed Website</a>
+  2. <a href="/GamePage">Tiny Planet Defender</a>
+  3. <a href="/SchoolManagerPage">School Manager Android Application</a>
+  4. <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
+  5. <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
+  6. <a href="/ProductionLinePage">Unity as a Production Line Simulator</a>
 Copyright 2019 © [niknik27](https://github.com/niknik27)
