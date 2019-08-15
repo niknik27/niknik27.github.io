@@ -51,5 +51,13 @@ This project was created because the local 50's diner I was employed at needed a
   > [Photo by Colin Avery on Unsplash](https://unsplash.com/photos/5e-ljvIaiBM)
   
   > [Photo by R. Mac Wheeler on Unsplash](https://unsplash.com/photos/CJZi367anGU) 
+  
+## Projects
+  1. <a href="/50sPage">50's Diner Themed Website</a>
+  2. <a href="/GamePage">Tiny Planet Defender</a>
+  3. <a href="/SchoolManagerPage">School Manager Android Application</a>
+  4. <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
+  5. <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
+  6. <a href="/ProductionLinePage">Unity as a Production Line Simulator</a>
 
 Copyright 2019 © [niknik27](https://github.com/niknik27)
