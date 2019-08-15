@@ -4,7 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Friendly and Intuitive Software Developer who learns quickly and specializes in application, web, and game development.
   <br><br>
   I have experience in the following programming languages:
-        
        •   C#
        •   Java
        •   C++
@@ -28,5 +27,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   4. <a href="/InventoryManagerPage">Inventory Manager Java Application</a>
   <br>
   5. <a href="/AppointmentManagerPage">Appointment Manager Java Application</a>
-
+  
 theme: jekyll-theme-minimal
