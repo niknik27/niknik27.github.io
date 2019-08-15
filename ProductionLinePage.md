@@ -20,34 +20,16 @@ and is not necessarily designed for how I envisioned the project.
 - [Unity](https://unity.com/)
 
 ## Features
-  > Multi-threaded application
+  - Multi-threaded application
   
-  > Door measurements are randomly generated to simulate orders
+  - Door measurements are randomly generated to simulate orders
   
-  > Calculates height and width of the window using door measurements. Windows are calculated differently depending on 3 different window types.
+  - Calculates height and width of the window using door measurements. Windows are calculated differently depending on 3 different window types.
   
-  > Constantly calculates the average measurements of finished doors and windows after each new addition
+  - Constantly calculates the average measurements of finished doors and windows after each new addition
   
-  > The speed of the lasers and products can be changed during runtime
+  - The speed of the lasers and products can be changed during runtime
   
-  > Generates a report in a .txt file that lists each product information as well as the final averages of the measurements
-    (Note: the .txt file path must be changed for it to work properly)
-
-## Installation
-> Step 1: Download and install [Unity](https://store.unity.com/download-nuo) (Sign in might be needed when opening)
-
-> Step 2: Download all files from repository
-
-> Step 3: Click "Open" from Unity after installation
-
-> Step 4: Select folder where all files from this repository are located on your computer
-
-> Step 5: Code!
-
-## IMPORTANT:
-
->This project was developed with Unity 2019
-
->The door and window graphics move but do not get altered according to their measurements
+  - Generates a report in a .txt file that lists each product information as well as the final averages of the measurements
 
 Copyright 2019 © [niknik27](https://github.com/niknik27)
