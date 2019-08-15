@@ -10,10 +10,10 @@ and is not necessarily designed for how I envisioned the project.
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 ## Preview
-<img src="ProductionSimulator.gif" width="100%">
+<img src="/gifs/ProductionSimulator.gif" width="100%">
 
 ## Screenshots
-![Image](Screenshot.png?raw=true "Screenshot 1")
+<img src="/images/ProductionLineScreenshot/Screenshot.png?raw=true" width="50%" alt = "screenshot 1">
 
 ## Tech/framework used
 <b>Built with</b>
