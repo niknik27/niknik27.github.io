@@ -13,7 +13,7 @@ and is not necessarily designed for how I envisioned the project.
 <img src="/gifs/ProductionSimulator.gif" width="100%">
 
 ## Screenshots
-<img src="/images/ProductionLineScreenshot/Screenshot.png?raw=true" width="50%" alt = "screenshot 1">
+<img src="/images/ProductionLineScreenshots/Screenshot.png?raw=true" width="50%" alt = "screenshot 1">
 
 ## Tech/framework used
 <b>Built with</b>
