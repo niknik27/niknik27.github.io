@@ -31,7 +31,89 @@ and is not necessarily designed for how I envisioned the project.
   - The speed of the lasers and products can be changed during runtime
   
   - Generates a report in a .txt file that lists each product information as well as the final averages of the measurements
-  
+
+## Code Sample
+<b>Method to calculate window measurements using given door measurements</b>
+
+```C#
+/// <summary>
+    /// Gets all doors and matches each door with their corresponding window using their IdNumber
+    /// The measurements are then calculated by:
+    ///     *Getting the height and width of the door
+    ///     *Subtracting the difference to create a gap
+    ///     *Do calcuations depending on the selected window type
+    /// </summary>
+    public void calculateWindowMeasurements()
+    {
+
+        foreach (Door door in allDoors)
+        {
+
+            foreach (Window window in allWindows)
+            {
+
+                if (door.getIdNum() == window.getIdNum())
+                {
+                    if (door.getSelectedWindowType().Equals("Full"))
+                    {
+                        //calculates height of a full window by subtracting the height of door from the gaps 
+                        //multiplied by 2 to account for both top and bottom gaps
+                        windowHeight = door.getDoorHeight() - (heightDifference * 2);
+
+                        //calculates width of a full window by subtracting the width of door from the gaps 
+                        //multiplied by 2 to account for gaps on both sides
+                        windowWidth = door.getDoorWidth() - (widthDifference * 2);
+
+                        //set the window measurements
+                        window.setWindowHeight(windowHeight);
+                        window.setWindowWidth(windowWidth);
+
+                    }
+                    else if (door.getSelectedWindowType().Equals("Half"))
+                    {
+                        //calculates height of a half window by dividing the height of door by 2 and subtracting the gap
+                        windowHeight = (door.getDoorHeight() / 2) - heightDifference;
+
+                        //calculates width of a full window by subtracting the width of door from the gaps 
+                        //multiplied by 2 to account for gaps on both sides
+                        windowWidth = door.getDoorWidth() - (widthDifference * 2);
+
+                        //set the window measurements
+                        window.setWindowHeight(windowHeight);
+                        window.setWindowWidth(windowWidth);
+
+                    }
+                    else if (door.getSelectedWindowType().Equals("Quarter"))
+                    {
+                        //calculates height of a quarter window by dividing the height of door by 4 and subtracting the gap
+                        windowHeight = (door.getDoorHeight() / 4) - heightDifference;
+
+                        //calculates width of a full window by subtracting the width of door from the gaps 
+                        //multiplied by 2 to account for gaps on both sides
+                        windowWidth = door.getDoorWidth() - (widthDifference * 2);
+
+                        //set the window measurements
+                        window.setWindowHeight(windowHeight);
+                        window.setWindowWidth(windowWidth);
+                    }
+                    else
+                    {
+
+                    }
+
+                    //print(window.getId() + "\nHeight:" + window.getWindowHeight() + "\nWidth:" + window.getWindowWidth() + "\nWindow Type:" + door.getSelectedWindowType());
+                }
+                else
+                {
+
+                }
+            }
+        }
+
+        computationWindowDone = true;
+    }
+```
+
 ## Projects
   1. <a href="/50sPage">50's Diner Themed Website</a>
   2. <a href="/GamePage">Tiny Planet Defender</a>
