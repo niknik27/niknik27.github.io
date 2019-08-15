@@ -20,17 +20,17 @@ and is not necessarily designed for how I envisioned the project.
 - [Unity](https://unity.com/)
 
 ## Features
-  - Multi-threaded application
+  > Multi-threaded application
   
-  - Door measurements are randomly generated to simulate orders
+  > Door measurements are randomly generated to simulate orders
   
-  - Calculates height and width of the window using door measurements. Windows are calculated differently depending on 3 different window types.
+  > Calculates height and width of the window using door measurements. Windows are calculated differently depending on 3 different window types.
   
-  - Constantly calculates the average measurements of finished doors and windows after each new addition
+  > Constantly calculates the average measurements of finished doors and windows after each new addition
   
-  - The speed of the lasers and products can be changed during runtime
+  > The speed of the lasers and products can be changed during runtime
   
-  - Generates a report in a .txt file that lists each product information as well as the final averages of the measurements
+  > Generates a report in a .txt file that lists each product information as well as the final averages of the measurements
 
 ## Code Sample
 <b>Method to calculate window measurements using given door measurements</b>
